@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Professor Silva
+title: ProfSilva
 logo: # You can add own logo. For example '/images/logo.png'.
 description: ProfSilva – Explorando Filosofias e Tecnologia.
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -17,8 +17,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Professor Silva
-  description: Explorando Ciências Humanas, tecnologia e ideas.
+  title: André S. Silva
+  description: Explorando Ciências Humanas, tenologia e ideas..
   image: '/images/01.jpg'
 
 
