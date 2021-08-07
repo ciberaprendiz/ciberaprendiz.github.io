@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
-title: ProfSilva
+title: CiberAprendiz
 logo: # You can add own logo. For example '/images/logo.png'.
-description: ProfSilva – Explorando Filosofias e Tecnologia.
+description: CiberAprendiz – Aprendendo sobre Tecnologias e Humanos.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "http://profsilva.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "http://ciberaprendiz.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: André S. Silva
-  description: Explorando Filosofias e Tecnologias.
+  description: Aprendendo sobre Tecnologias e Humanos.
   image: '/images/01.jpg'
 
 
