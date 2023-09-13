@@ -5,7 +5,7 @@ permalink: /Sobre/
 image: '/images/16.jpg'
 ---
 
-Olá, me chamo André S. Silva. Sou graduado em Filosofia e pós-graduando em Ciência de Dados e Cibersegurança. Adoro a intersecção desses temas e este espaço foi criado para explorá-los.
+Olá, me chamo André S. Silva. Sou graduado em Filosofia e graduando em Digital Security. Adoro a intersecção desses temas e este espaço foi criado para explorá-los.
 
 ![Time to think]({{site.baseurl}}/images/501.jpg)
 *Minimalism / [Unsplash](https://unsplash.com/)*
